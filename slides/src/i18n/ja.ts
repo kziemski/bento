@@ -4,6 +4,8 @@
 import type { Catalog } from '../i18n'
 
 export const ja: Catalog = {
+  "What’s new →": "新着情報 →",
+  "Read the release notes for v{v} (opens in a new tab)": "v{v} のリリースノートを読む（新しいタブで開きます）",
   "That image is too large to share live (about 1 MB max). It’s saved in your copy, but collaborators won’t see it.": "この画像はライブ共有には大きすぎます（上限は約 1 MB）。自分のコピーには保存されますが、共同編集者には表示されません。",
   "That change is too large to share live (about 1 MB max). It’s saved in your copy, but collaborators won’t see it.": "この変更はライブ共有には大きすぎます（上限は約 1 MB）。自分のコピーには保存されますが、共同編集者には表示されません。",
   "This live session has run out of room. Your change is saved in your copy, but collaborators won’t see it.": "このライブセッションの容量がいっぱいです。変更は自分のコピーに保存されますが、共同編集者には表示されません。",

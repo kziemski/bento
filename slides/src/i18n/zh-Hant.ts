@@ -4,6 +4,8 @@
 import type { Catalog } from '../i18n'
 
 export const zhHant: Catalog = {
+  "What’s new →": "更新內容 →",
+  "Read the release notes for v{v} (opens in a new tab)": "查看 v{v} 的發行說明（在新分頁中開啟）",
   "That image is too large to share live (about 1 MB max). It’s saved in your copy, but collaborators won’t see it.": "此圖片太大，無法即時共用（上限約 1 MB）。它已儲存在你的副本中，但協作者不會看到。",
   "That change is too large to share live (about 1 MB max). It’s saved in your copy, but collaborators won’t see it.": "此變更太大，無法即時共用（上限約 1 MB）。它已儲存在你的副本中，但協作者不會看到。",
   "This live session has run out of room. Your change is saved in your copy, but collaborators won’t see it.": "此即時工作階段空間已滿。你的變更已儲存在你的副本中，但協作者不會看到。",

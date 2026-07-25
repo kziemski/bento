@@ -4,6 +4,8 @@
 import type { Catalog } from '../i18n'
 
 export const de: Catalog = {
+  "What’s new →": "Neuerungen →",
+  "Read the release notes for v{v} (opens in a new tab)": "Versionshinweise für v{v} lesen (öffnet einen neuen Tab)",
   "That image is too large to share live (about 1 MB max). It’s saved in your copy, but collaborators won’t see it.": "Dieses Bild ist zu groß für die Live-Freigabe (max. etwa 1 MB). Es ist in deiner Kopie gespeichert, aber Mitarbeitende sehen es nicht.",
   "That change is too large to share live (about 1 MB max). It’s saved in your copy, but collaborators won’t see it.": "Diese Änderung ist zu groß für die Live-Freigabe (max. etwa 1 MB). Sie ist in deiner Kopie gespeichert, aber Mitarbeitende sehen sie nicht.",
   "This live session has run out of room. Your change is saved in your copy, but collaborators won’t see it.": "Diese Live-Sitzung hat keinen Platz mehr. Deine Änderung ist in deiner Kopie gespeichert, aber Mitarbeitende sehen sie nicht.",

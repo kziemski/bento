@@ -11,6 +11,12 @@ pre-1.0.
 
 ## [Unreleased]
 
+- **The starter deck is called “Bento Slides Showcase” again.** The lowercase
+  rebrand swept the deck's own title along with the app's, but a deck title is
+  a document name — it shows in the window title and becomes the suggested
+  filename — so it reads better in title case. The `bento/slides` wordmark is
+  unchanged.
+
 ## [1.0.10] — 2026-07-25
 
 - **Table defaults can follow the deck theme.** A deck may now define table

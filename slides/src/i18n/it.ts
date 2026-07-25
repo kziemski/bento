@@ -659,4 +659,5 @@ export const it: Catalog = {
   "Add a point on the path; double-click a point to remove it": "Aggiungi un punto sulla traiettoria; doppio clic su un punto per rimuoverlo",
   "Set how fast the element moves through that point": "Imposta la velocità con cui l’elemento attraversa quel punto",
   "Scroll a point": "Scorri un punto",
+  "Don’t pair — use its own id": "Non abbinare — usa il proprio id",
 }

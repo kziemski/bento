@@ -659,4 +659,5 @@ export const zhHans: Catalog = {
   "Add a point on the path; double-click a point to remove it": "在路径上添加点；双击某点将其删除",
   "Set how fast the element moves through that point": "设置元素通过该点的速度",
   "Scroll a point": "滚动某点",
+  "Don’t pair — use its own id": "不配对 — 使用自身 id",
 }

@@ -659,4 +659,5 @@ export const zhHant: Catalog = {
   "Add a point on the path; double-click a point to remove it": "在路徑上新增點；連按兩下某點可移除",
   "Set how fast the element moves through that point": "設定元素通過該點的速度",
   "Scroll a point": "捲動某點",
+  "Don’t pair — use its own id": "不配對 — 使用自身 id",
 }

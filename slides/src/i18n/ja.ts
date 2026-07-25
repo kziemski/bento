@@ -659,4 +659,5 @@ export const ja: Catalog = {
   "Add a point on the path; double-click a point to remove it": "パス上に点を追加。点をダブルクリックで削除",
   "Set how fast the element moves through that point": "その点を通過する速さを設定",
   "Scroll a point": "点をスクロール",
+  "Don’t pair — use its own id": "ペアにしない — 自身の id を使う",
 }
